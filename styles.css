@@ -1,0 +1,97 @@
+body{
+  margin: auto;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #616161;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin-top: 50px;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+  color: #85EF47;
+}
+h2{
+  font-family: 'MuseoModerno', cursive;
+  color: #85EF47;
+  padding-bottom: 10px;
+}
+h3{
+  font-family: 'MuseoModerno', cursive;
+  color: #6B8C42;
+}
+a{
+  color: #6B8C42;
+}
+.skills{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.programming{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.w1{
+  background-color: #0E9AA7;
+  padding-top: 250px;
+  margin-top: 0;
+  border: auto;
+  position: relative;
+}
+.w2{
+  background-color: #F17808;
+  padding-bottom: 100px;
+}
+.playing{
+
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+p{
+  line-height: 2;
+
+}
+.w3{
+  background-color: #53D397;
+  padding: 50px 0 20px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.Bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+.Top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 100px;
+
+}
+span{
+  text-decoration: underline;
+}
+.First-paragraph{
+  font-size: 2.5rem;
+  font-family: 'Amatic SC', cursive;
+  font-weight: normal;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.contact-op{
+  width: 40%;
+  margin: 40px auto 60px;
+}
